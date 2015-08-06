@@ -2,14 +2,14 @@
 /* global describe: false, it: false */
 'use strict';
 
-var lib = require('../'),
+var lib    = require('../'),
     expect = require('chai').expect;
 
 // Tests
 
 describe('lib', function() {
 
-  it.skip('NEED TEST', function(done) {
+  it.skip('NEED TO TEST', function(done) {
     if(lib && expect) {
       done();
     }
