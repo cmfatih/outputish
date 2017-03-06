@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 (2017-03-05)
+
+- Maintenance
+
 ## 0.1.1 (2016-03-20)
 
 - Maintenance
